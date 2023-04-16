@@ -68,7 +68,7 @@ DATABASES = {
         'HOST':'project-db.ccl2mbhnifxd.us-west-2.rds.amazonaws.com',
         'PORT':'3306',
         'custombucket': 'projectbucketdata',
-        'customregion': 'us-west-1'
+        'customregion': 'us-west-2'
     }
 }
 
